@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: '',
-  github: '',
-  linkedin: '',
+  github: 'dongho-shin',
+  linkedin: '동호-신-81ab65227',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
