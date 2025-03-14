@@ -64,7 +64,8 @@
     "eslint": "^8.57.1",
     "npm-run-all2": "^7.0.1",
     "prettier": "^3.3.3",
-    "typescript": "^5.6.3"
+    "typescript": "^5.6.3",
+    "vercel": "^41.4.1"
   },
   "overrides": {
     "cacheable-request": {
