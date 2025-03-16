@@ -17,7 +17,6 @@ export default siteConfig({
   description: 'Dongho의 개인 블로그입니다',
 
   // social usernames (optional)
-  twitter: '',
   github: 'dongho-shin',
   linkedin: '동호-신-81ab65227',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
