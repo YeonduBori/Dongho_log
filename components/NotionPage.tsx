@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/next'
 import cs from 'classnames'
 import dynamic from 'next/dynamic'
 import Image from 'next/legacy/image'
@@ -272,6 +273,7 @@ export function NotionPage({
         pageAside={pageAside}
         footer={footer}
       />
+      <Analytics />
     </>
   )
 }
